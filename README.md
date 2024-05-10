@@ -1,16 +1,14 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💔
+meu nome é Alice Tizzei
 
-<!--
-**alicetizzei/alicetizzei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Estou estudando no [alura](https://cursos.alura.com.br)
+- Estou me desencolvendo no p5js
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCE ENTRA EM CONTATO COMIGO 📫 
+email- alicetizzei@gmail.com
+@alicetizzei
+
+![image](https://github.com/alicetizzei/alicetizzei/assets/169301998/11bfccd1-077a-4ab2-a739-2ab9cb2033c7)
+
